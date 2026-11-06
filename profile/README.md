@@ -1,7 +1,7 @@
 # IT Skills Maker
 
 Le code des vidéos de la chaîne YouTube **IT Skills Maker** : cours complets en français sur Java, Spring Boot,
-l'architecture, Docker, l'IA pour développeurs et Python.
+l'architecture, Docker, l'IA pour développeurs, Python et les structures de données en C.
 
 👉 **La chaîne : https://www.youtube.com/@ItSkillsMaker**
 
@@ -32,6 +32,12 @@ Un dépôt par vidéo : le lien de la description mène directement au bon code,
 |---|---|
 | [MCP en Java : créer un serveur MCP avec Spring AI](https://youtu.be/2KQbDih_W9A) | [spring-ai-mcp](https://github.com/SkillMakers/spring-ai-mcp) |
 | [Organiser un projet avec Claude Code : CLAUDE.md, skills, hooks](https://youtu.be/vhYtbEZEqfc) | [claude-code-projet](https://github.com/SkillMakers/claude-code-projet) |
+
+## Structures de données en C
+
+| Vidéo | Code |
+|---|---|
+| [Listes chaînées en C : cours et exercices corrigés](https://youtu.be/UAFC9QbYD4E) | [structures-donnees/listes-chainees](https://github.com/SkillMakers/structures-donnees/tree/main/listes-chainees) |
 
 ## Python
 
