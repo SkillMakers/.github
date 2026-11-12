@@ -39,6 +39,12 @@ Un dépôt par vidéo : le lien de la description mène directement au bon code,
 |---|---|
 | [Listes chaînées en C : cours et exercices corrigés](https://youtu.be/UAFC9QbYD4E) | [structures-donnees/listes-chainees](https://github.com/SkillMakers/structures-donnees/tree/main/listes-chainees) |
 
+## Architecture des ordinateurs
+
+| Vidéo | Code |
+|---|---|
+| [Algèbre de Boole et tableau de Karnaugh : cours et exercices corrigés](https://youtu.be/w9IeWZVF9vY) | [algebre-boole](https://github.com/SkillMakers/algebre-boole) |
+
 ## Python
 
 | Vidéo | Code |
