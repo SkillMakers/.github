@@ -82,7 +82,7 @@ Un dépôt par vidéo : le lien de la description mène directement au bon code,
 
 | Vidéo | Code |
 |---|---|
-| Méthode PERT et diagramme de Gantt : cours et exercice corrigé (bientôt) | [pert-gantt](https://github.com/SkillMakers/pert-gantt) |
+| [Méthode PERT et diagramme de Gantt : cours et exercice corrigé](https://youtu.be/NyxC21i8ZIU) | [pert-gantt](https://github.com/SkillMakers/pert-gantt) |
 
 ---
 
