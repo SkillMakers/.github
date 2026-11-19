@@ -38,7 +38,7 @@ Un dépôt par vidéo : le lien de la description mène directement au bon code,
 | [Entretien Java : 30 questions et les réponses attendues (Java 25)](https://youtu.be/5d33oL1NMD8) | [entretien-java/junior](https://github.com/SkillMakers/entretien-java/tree/main/junior) |
 | [Entretien Java senior : 30 questions et les réponses attendues](https://youtu.be/qKFHuuzBdXk) | [entretien-java/senior](https://github.com/SkillMakers/entretien-java/tree/main/senior) |
 | [Design patterns en Java : les 5 essentiels (et leurs pièges)](https://youtu.be/2T7xN7htUTw) | [design-patterns-java](https://github.com/SkillMakers/design-patterns-java) |
-| Clean code et principes SOLID en Java : exemples et pièges (bientôt) | [clean-code-java](https://github.com/SkillMakers/clean-code-java) |
+| [Clean code et principes SOLID en Java : exemples et pièges](https://youtu.be/VdOheLt0XZs) | [clean-code-java](https://github.com/SkillMakers/clean-code-java) |
 
 ## Architecture
 
