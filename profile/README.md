@@ -88,7 +88,7 @@ Un dépôt par vidéo : le lien de la description mène directement au bon code,
 
 | Vidéo | Code |
 |---|---|
-| Automates finis : déterminiser et minimiser, exercices corrigés (bientôt) | [automates-finis](https://github.com/SkillMakers/automates-finis) |
+| [Automates finis : déterminiser et minimiser, exercices corrigés](https://youtu.be/DWeajOx1au4) | [automates-finis](https://github.com/SkillMakers/automates-finis) |
 
 ---
 
