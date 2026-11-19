@@ -84,6 +84,12 @@ Un dépôt par vidéo : le lien de la description mène directement au bon code,
 |---|---|
 | [Méthode PERT et diagramme de Gantt : cours et exercice corrigé](https://youtu.be/NyxC21i8ZIU) | [pert-gantt](https://github.com/SkillMakers/pert-gantt) |
 
+## Informatique théorique
+
+| Vidéo | Code |
+|---|---|
+| Automates finis : déterminiser et minimiser, exercices corrigés (bientôt) | [automates-finis](https://github.com/SkillMakers/automates-finis) |
+
 ---
 
 Une question sur une vidéo ? Pose-la en commentaire sous la vidéo, je réponds à tout le monde.
