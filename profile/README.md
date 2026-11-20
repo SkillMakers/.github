@@ -78,6 +78,7 @@ Un dépôt par vidéo : le lien de la description mène directement au bon code,
 | [Python 3.15 : les nouveautés expliquées](https://youtu.be/USvD92hHtTE) | [python-315](https://github.com/SkillMakers/python-315) |
 | [Algorithmes de tri en Python : cours et exercices corrigés](https://youtu.be/Uk9Py1uXrfA) | [algorithmes-python/tris](https://github.com/SkillMakers/algorithmes-python/tree/main/tris) |
 | [Complexité algorithmique : cours et exercices corrigés (grand O)](https://youtu.be/7tY4PK9ceSc) | [algorithmes-python/complexite](https://github.com/SkillMakers/algorithmes-python/tree/main/complexite) |
+| [Récursivité en Python : cours et exercices corrigés](https://youtu.be/H3YqGaEbOZw) | [algorithmes-python/recursivite](https://github.com/SkillMakers/algorithmes-python/tree/main/recursivite) |
 
 ## Gestion de projet
 
