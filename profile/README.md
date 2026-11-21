@@ -61,6 +61,7 @@ Un dépôt par vidéo : le lien de la description mène directement au bon code,
 | [Piles et files en C : cours et exercices corrigés](https://youtu.be/PTLaJJ202OY) | [structures-donnees/piles-files](https://github.com/SkillMakers/structures-donnees/tree/main/piles-files) |
 | [Arbres binaires de recherche en C : cours et exercices corrigés](https://youtu.be/0xxmA2Pz5WA) | [structures-donnees/arbres-binaires](https://github.com/SkillMakers/structures-donnees/tree/main/arbres-binaires) |
 | [Algorithme de Dijkstra : cours et exercices corrigés (graphes)](https://youtu.be/pOVjK5UV1L0) | [structures-donnees/dijkstra](https://github.com/SkillMakers/structures-donnees/tree/main/dijkstra) |
+| [Liste doublement chaînée en C : cours et exercices corrigés](https://youtu.be/zHvp8dJ5k8o) | [structures-donnees/liste-double](https://github.com/SkillMakers/structures-donnees/tree/main/liste-double) |
 
 ## Architecture des ordinateurs
 
