@@ -92,6 +92,7 @@ Un dépôt par vidéo : le lien de la description mène directement au bon code,
 | Vidéo | Code |
 |---|---|
 | [Automates finis : déterminiser et minimiser, exercices corrigés](https://youtu.be/DWeajOx1au4) | [automates-finis](https://github.com/SkillMakers/automates-finis) |
+| [Réseaux de Petri : cours et exercices corrigés (graphe de marquage)](https://youtu.be/rhRuo28aUmY) | [reseaux-petri](https://github.com/SkillMakers/reseaux-petri) |
 
 ---
 
