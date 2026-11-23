@@ -29,7 +29,7 @@ Un dépôt par vidéo : le lien de la description mène directement au bon code,
 |---|---|
 | [Kubernetes : déployer une application Spring Boot (tuto complet)](https://youtu.be/-jotTFRdVXo) | [kubernetes-spring-boot](https://github.com/SkillMakers/kubernetes-spring-boot) |
 | [Spring Boot sur Kubernetes : probes, mémoire JVM et arrêt propre](https://youtu.be/ZqJQAcW6FFQ) | [kubernetes-spring-boot-2](https://github.com/SkillMakers/kubernetes-spring-boot-2) |
-| Helm Kubernetes : tuto complet et 6 pièges (Helm 4, Spring Boot) (le 23 novembre) | [kubernetes-helm](https://github.com/SkillMakers/kubernetes-helm) |
+| [Helm Kubernetes : tuto complet et 6 pièges (Helm 4, Spring Boot)](https://youtu.be/c-OeeQ0M7uI) | [kubernetes-helm](https://github.com/SkillMakers/kubernetes-helm) |
 
 ## Java
 
