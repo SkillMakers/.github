@@ -11,6 +11,7 @@ Un dépôt par vidéo : le lien de la description mène directement au bon code,
 
 | Vidéo | Code |
 |---|---|
+| Spring Batch : tuto complet et 6 pièges (Spring Boot 4) (bientôt) | [spring-batch](https://github.com/SkillMakers/spring-batch) |
 | [API REST : c'est quoi ? Le cours complet (verbes, codes HTTP, pièges)](https://youtu.be/Ybs4qIBZHHk) | [api-rest](https://github.com/SkillMakers/api-rest) |
 | [Spring Boot : bean, injection de dépendances, @Transactional, DTO](https://youtu.be/5PwWRTVJ8cg) | [spring-concepts](https://github.com/SkillMakers/spring-concepts) |
 | [API Gateway microservices : Spring Cloud Gateway, le guide complet](https://youtu.be/TieH9IPcpZU) | [spring-cloud-gateway](https://github.com/SkillMakers/spring-cloud-gateway) |
