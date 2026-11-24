@@ -1,7 +1,7 @@
 # IT Skills Maker
 
 Le code des vidéos de la chaîne YouTube **IT Skills Maker** : cours complets en français sur Java, Spring Boot,
-l'architecture, Docker, l'IA pour développeurs, Python, Kubernetes, les structures de données en C, l'architecture des ordinateurs et la gestion de projet.
+l'architecture, Docker, l'IA pour développeurs, Python, Kubernetes, les structures de données en C, l'architecture des ordinateurs, les systèmes d'exploitation et la gestion de projet.
 
 👉 **La chaîne : https://www.youtube.com/@ItSkillsMaker**
 
@@ -71,6 +71,7 @@ Un dépôt par vidéo : le lien de la description mène directement au bon code,
 | [Algèbre de Boole et tableau de Karnaugh : cours et exercices corrigés](https://youtu.be/w9IeWZVF9vY) | [algebre-boole](https://github.com/SkillMakers/algebre-boole) |
 | [Portes logiques et circuits combinatoires : exercices corrigés](https://youtu.be/_3MNWA6zcT0) | [portes-logiques](https://github.com/SkillMakers/portes-logiques) |
 | [Binaire, hexadécimal et complément à deux : exercices corrigés](https://youtu.be/BoxiOoZ0jks) | [numeration](https://github.com/SkillMakers/numeration) |
+| [Système d'exploitation : cours complet et exercices corrigés](https://youtu.be/AN90mmJMCK0) | [systeme-exploitation](https://github.com/SkillMakers/systeme-exploitation) |
 
 ## Python
 
