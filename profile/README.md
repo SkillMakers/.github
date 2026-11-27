@@ -78,7 +78,7 @@ Un dépôt par vidéo : le lien de la description mène directement au bon code,
 | Vidéo | Code |
 |---|---|
 | [Modèle OSI et TCP/IP : cours et exercices corrigés](https://youtu.be/svfbkOfh6xk) | [modele-osi](https://github.com/SkillMakers/modele-osi) |
-| Chiffrement symétrique et asymétrique, hachage et RSA : exercices (bientôt) | [cryptographie](https://github.com/SkillMakers/cryptographie) |
+| [Chiffrement symétrique et asymétrique, hachage et RSA : exercices](https://youtu.be/WtXDnlro-eg) | [cryptographie](https://github.com/SkillMakers/cryptographie) |
 
 ## Python
 
