@@ -73,6 +73,12 @@ Un dépôt par vidéo : le lien de la description mène directement au bon code,
 | [Binaire, hexadécimal et complément à deux : exercices corrigés](https://youtu.be/BoxiOoZ0jks) | [numeration](https://github.com/SkillMakers/numeration) |
 | [Système d'exploitation : cours complet et exercices corrigés](https://youtu.be/AN90mmJMCK0) | [systeme-exploitation](https://github.com/SkillMakers/systeme-exploitation) |
 
+## Réseaux
+
+| Vidéo | Code |
+|---|---|
+| [Modèle OSI et TCP/IP : cours et exercices corrigés](https://youtu.be/svfbkOfh6xk) | [modele-osi](https://github.com/SkillMakers/modele-osi) |
+
 ## Python
 
 | Vidéo | Code |
