@@ -89,6 +89,7 @@ Un dépôt par vidéo : le lien de la description mène directement au bon code,
 | [Algorithmes de tri en Python : cours et exercices corrigés](https://youtu.be/Uk9Py1uXrfA) | [algorithmes-python/tris](https://github.com/SkillMakers/algorithmes-python/tree/main/tris) |
 | [Complexité algorithmique : cours et exercices corrigés (grand O)](https://youtu.be/7tY4PK9ceSc) | [algorithmes-python/complexite](https://github.com/SkillMakers/algorithmes-python/tree/main/complexite) |
 | [Récursivité en Python : cours et exercices corrigés](https://youtu.be/H3YqGaEbOZw) | [algorithmes-python/recursivite](https://github.com/SkillMakers/algorithmes-python/tree/main/recursivite) |
+| [Machine Learning en Python : le cours complet (scikit-learn)](https://youtu.be/kYQnnTxdohE) | [machine-learning-python](https://github.com/SkillMakers/machine-learning-python) |
 
 ## Gestion de projet
 
